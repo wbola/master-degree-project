@@ -1,2 +1,2 @@
-# master-degree-project
+# Master degree project
 Generating reports using the Python programming language.
